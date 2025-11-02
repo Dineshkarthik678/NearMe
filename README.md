@@ -27,6 +27,7 @@ Execute the programs and publish them.
 ## CODE
 map.html
 
+```
 <html>
     <body>
         <h1 align="center">
@@ -50,8 +51,11 @@ map.html
     </body>
 </html>
 
+```
 gopuram.html
 
+
+```
 <html>
 
 <body bgcolor="lavender">
@@ -98,9 +102,11 @@ gopuram.html
 </body>
 
 </html>
+```
 
 ramana.html
 
+```
 <html>
 
 <body bgcolor="silver">
@@ -142,8 +148,10 @@ ramana.html
 
 </html>
 
+```
 hill.html
 
+```
 <html>
 
 <body bgcolor="ivory">
@@ -179,13 +187,18 @@ hill.html
 
 </html>
 
+```
 
 
 
 ## OUTPUT
+
 ![alt text](<Screenshot 2025-11-02 213133.png>)
+
 ![alt text](<Screenshot 2025-11-02 213037.png>)
+
 ![alt text](<Screenshot 2025-11-02 212920.png>)
+
 ![alt text](<Screenshot 2025-11-02 212855.png>)
 
 
